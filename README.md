@@ -34,3 +34,25 @@ To analyze Netflix’s content and user data to uncover patterns in content type
    git clone https://github.com/chitraekal/netflix-analysis.git
 
 
+## 🧠 Learnings
+- Hands-on experience with real-world datasets.
+- Practice in data cleaning, EDA, and storytelling through visuals.
+- Built an interactive dashboard for non-technical stakeholders.
+
+---
+
+## 📂 Dataset Source
+[Netflix Titles Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+
+---
+
+## 🤝 Contact
+**Chitra Kuchekar**  
+📧 chitra.ekal@gmail.com  
+🌐 [LinkedIn](www.linkedin.com/in/chitra-kuchekar-40663124) | [GitHub](https://github.com/chitraekal)
+
+![N4](https://github.com/user-attachments/assets/86f74f7f-7a52-48fc-896f-e080ba53f095)
+![N3](https://github.com/user-attachments/assets/2201142f-f733-4715-adfd-6adf3daebded)
+![N2](https://github.com/user-attachments/assets/6613a223-53cd-4c18-aebf-093ab76c4368)
+![N1](https://github.com/user-attachments/assets/136e4149-7d10-4a81-a71b-fe2492297824)
+
