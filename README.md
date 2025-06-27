@@ -31,7 +31,7 @@ To analyze Netflix’s content and user data to uncover patterns in content type
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/chitraekal/netflix-analysis.git
+   git clone : (https://github.com/chitraekal/Netflix.git)
 
 
 ## 🧠 Learnings
