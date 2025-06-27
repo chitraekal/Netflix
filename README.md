@@ -17,7 +17,7 @@ To analyze Netflix’s content and user data to uncover patterns in content type
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Excel
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 
 ---
 
